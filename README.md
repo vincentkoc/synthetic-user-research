@@ -23,8 +23,10 @@ This project explores the innovative domain of synthetic user research by levera
 
 Clone the repository to your local machine:
 
+```bash
 git clone https://github.com/koconder/synthetic-user-research.git
 cd synthetic-user-research
+```
 
 ### Running the Notebook
 
