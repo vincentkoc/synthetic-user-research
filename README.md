@@ -4,7 +4,7 @@
 
 This project explores the innovative domain of synthetic user research by leveraging generative AI and autonomous agents to simulate digital customer personas. Traditional user research methodologies face challenges such as scalability and accessing diverse user groups. Our approach, using generative AI, allows for the creation and interaction with digital personas in simulated research scenarios, unlocking unprecedented insights into consumer behaviors and preferences.
 
-![Visual depiction of simulated user research session](path/to/your/image.png)
+![Visual depiction of simulated user research session](screenshot.png)
 
 ## Key Features
 
