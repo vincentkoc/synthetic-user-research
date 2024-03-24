@@ -1,4 +1,4 @@
-# Synthetic User Research with Persona Prompting and Autonomous Agents
+# Synthetic User Research (Persona Prompting & Autonomous Agents)
 
 ## Overview
 
