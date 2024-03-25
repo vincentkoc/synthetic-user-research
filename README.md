@@ -47,7 +47,9 @@ We welcome contributions to this project! Whether it's adding new features, impr
 
 ## License
 
-This project is licensed under the [GPL-3.0 license](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [CC BY-NC-SA 4.0](LICENSE). - see the LICENSE file or [creative commons](http://creativecommons.org/licenses/by-nc-sa/4.0/) for details.
+
+This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms
 
 ## Acknowledgments
 
