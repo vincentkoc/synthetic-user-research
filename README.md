@@ -1,4 +1,5 @@
-# Synthetic User Research (Persona Prompting & Autonomous Agents)
+# Synthetic User Research
+## Persona Prompting & Autonomous Agents with Autogen Framework
 
 ## Overview
 
@@ -53,9 +54,9 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 ## Acknowledgments
 
-- Stefano De Paoli for the research workflow used in the generation of personas.
+- Stefano De Paoli for the research paper and process write up for the generation of personas.
 - The Autogen, BabyAGI, and CrewAI frameworks for enabling the architecture of autonomous agents.
-- All contributors and users of this project.
+- Support of my readers on thier use-cases.
 
 ## About the Author
 
