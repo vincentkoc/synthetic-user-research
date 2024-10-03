@@ -60,7 +60,7 @@ This license requires that reusers give credit to the creator. It allows reusers
 
 ## About the Author
 
-Vincent Koc is a author, lecturer and futurist with extensive experience in data-driven and digital disciplines with AI. Follow Vincent on [LinkedIn](https://www.linkedin.com/in/vincentkoc) and [X](https://twitter.com/koconder).
+Vincent Koc is a author, lecturer and futurist with extensive experience in data-driven and digital disciplines with AI. Follow Vincent on [LinkedIn](https://www.linkedin.com/in/vincentkoc) and [X]([https://twitter.com/koconder](https://x.com/vincent_koc)).
 
 ---
 
